@@ -98,6 +98,4 @@ This project is licensed under the **Unlicense** – free for personal or commer
 
 ---
 
-*Made by [LeonardKachi](https://github.com/LeonardKachi)*
 
-```
